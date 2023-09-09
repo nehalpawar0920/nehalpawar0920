@@ -11,7 +11,7 @@
 - #JAVA
 - #WEB DEVELOPMENT
 - #CYBER SECURITY
-- 📫 How to reach me at the following details"
+- 📫 How to reach me:
 - Email : nehalpawar0920@gmail.com.
 - Whatsapp : 8605618603
 - Website : 
