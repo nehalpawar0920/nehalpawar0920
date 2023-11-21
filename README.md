@@ -11,6 +11,11 @@
 - #JAVA
 - #WEB DEVELOPMENT
 - #CYBER SECURITY
+- PROJECTS:
+- 1 GUI Based Encryption & Decryption using Cipher Techniques
+- - Build in Python Language.
+- 2. Devnagiri Character Recognition using Machine Learning
+- - Build in Python.
 - 📫 How to reach me:
 - Email : nehalpawar0920@gmail.com.
 - Whatsapp : 8605618603
