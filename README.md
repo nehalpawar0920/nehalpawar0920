@@ -12,6 +12,9 @@
 
 - Optical Music Notes Recognition using OpenCV
 
+- Intrusion Detection System using CISCO Packet Tracer
+
+
 🌐 Experience:
 
 Web Developer Intern at Oasis Infobyte.
